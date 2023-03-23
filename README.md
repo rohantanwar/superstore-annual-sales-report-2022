@@ -1,5 +1,5 @@
 # superstore-annual-sales-report-2022
-In their annual sales review meeting, Vrinda stores, one of the largest online retailers in the country, must decide on their sales strategy for 2022 based on insights from the 2022 sales data.
+In their annual sales review meeting, Vrinda stores, one of the largest online retailers in the country, must decide on their sales strategy for 2023 based on insights from the 2022 sales data.
 
 This project focuses on generating key insights regarding Vrinda stores's sales for each month of 2022. The data will be used to assist the sales team in fine-tuning sales strategies as the year progresses.
 # Business Problem Statements
