@@ -27,7 +27,7 @@ Insights
   1. Women are more likely to buy more compared to men(~65%)
   2. Maharashtra, Karnataka, U.P., are the top 3 states(~35%)
   3. Adult age group (30-49) is maximum contributing in sales(~50%)
-  4.Amazon, Flipkart and Myntra are max contributing(~80%)
+  4. Amazon, Flipkart and Myntra are max contributing(~80%)
   
 Final conclusions to improve sales:
 
